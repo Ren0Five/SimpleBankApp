@@ -1,6 +1,8 @@
 /*
 Author: Ramos, Khristiane Ren v.
 Project: Simple Bank Application
+This is my first java project that handle bank transactions from making account using objects
+storing the created instance of the object account into an ArrayList<>
  */
 package banko;
 
